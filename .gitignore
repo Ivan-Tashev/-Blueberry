@@ -1,0 +1,11 @@
+.angular/
+.browserslistrc
+.editorconfig
+.firebase/
+.firebaserc
+.github/
+.vscode/
+dist/
+karma.conf.js
+node_modules/
+src/environments
